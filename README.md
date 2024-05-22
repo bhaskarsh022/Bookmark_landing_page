@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Live site URL](https://bookmark-landing-page-jade.vercel.app/)
-- [Solution URL](https://www.frontendmentor.io/solutions/responsive-bookmark-landing-page-built-using-html-css-and-javascript-sxztO_2Jo)
+- [Live site URL]([https://bookmark-landing-page-jade.vercel.app/](https://github.com/bhaskarsh022/Bookmark_landing_page/blob/main/bookmark-landing-page-master/index.html))
+
 
 ## My process
 
